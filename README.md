@@ -5,11 +5,6 @@ Includes automation, moderation, logging, permissions, custom commands, music (p
 
 ---
 
-## 🚀 Setup
-```bash
-git clone https://github.com/ApBaDb/discord-bot-suite.git
-pip install -r requirements.txt
-# discord-bot-suite
-Python custom discord bot EXAMPLES
+discord.gg/TQ77BCEJBP
 
 In the file bot.py is an example!
