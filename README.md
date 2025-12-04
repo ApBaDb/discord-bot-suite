@@ -5,6 +5,6 @@ Includes automation, moderation, logging, permissions, custom commands, music (p
 
 ---
 
-discord.gg/TQ77BCEJBP
+discord.gg/TQ77BCEJBP  soliddontop@outlook.com
 
 In the file bot.py is an example!
