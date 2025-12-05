@@ -1,7 +1,23 @@
-# Discord Bot Suite 🤖
+# 🤖 Discord Bot Pack
 
-A custom Discord bot built with Python.  
-Includes automation, moderation, logging, permissions, custom commands, music (placeholder), and games.
+A collection of bots for moderation, fun, and automation.
+
+## 🆓 Free Bots
+- Moderation (kick, ban, mute, clear)
+- Fun commands (games, memes)
+- Utility (ping, server info)
+
+## 💎 Premium Bots
+- Logging (joins, leaves, edits, deletes)
+- Music (play from YouTube/Spotify)
+- Analytics (server stats, growth tracking)
+- Custom commands pack
+
+👉 [Get Premium Pack](https://gumroad.com/yourlink)
+
+## 📫 Contact
+- Discord: imtheonlyone_67  
+- Email: soliddontop@outlook.com
 
 ---
 
